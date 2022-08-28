@@ -1,0 +1,2 @@
+set FLASK_APP=Project
+sset FLASK_ENV=development
